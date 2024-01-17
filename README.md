@@ -3,11 +3,11 @@
 ### <p align="center">The ultimate library to complete the 42 Cursus</p>
 
 ---
-**What is this project about?**</br>
+## What is this project about?</br>
 **LIBFT** is a library written in **C** that contains plenty of useful functions. These functions had to be created or recreated, not only to be used along the 42 Cursus but also to learn the basics of programming from the core.</br>
 
 ---
-## Biggest Challenges 💪:
+## Biggest Challenges 💪
 
   In general, there were a lot of interesting challenges to face. Recreating functions from scratch is not a simple task when you are starting to learn how to program.</br></br>
   The most relevant one was the **get_next_line** function, which is quite similar to the **readline** function. This was a project on its own, which I later had to add to this library. 
